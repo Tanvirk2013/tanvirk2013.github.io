@@ -1,3 +1,8 @@
 .modal {
   width: auto;
 }
+.sidebar-bottom {
+  position: fixed;
+  left: 7%;
+  bottom: 20px;
+}
